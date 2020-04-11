@@ -1,0 +1,65 @@
+2020/04/10 12:47:27 -------------------------This is a test log entry-------------------------------
+2020/04/10 12:47:27 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 12:47:37 Gse dictionary loaded finished.
+2020/04/10 12:47:37 [再 睇]
+2020/04/10 12:48:41 -------------------------This is a test log entry-------------------------------
+2020/04/10 12:48:41 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 12:48:51 Gse dictionary loaded finished.
+2020/04/10 12:48:51 [出 嚟 食 飯]
+2020/04/10 12:50:43 -------------------------This is a test log entry-------------------------------
+2020/04/10 12:50:43 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 12:50:53 Gse dictionary loaded finished.
+2020/04/10 12:50:53 出/v 嚟/zg 食/v 飯/n 
+2020/04/10 12:51:41 -------------------------This is a test log entry-------------------------------
+2020/04/10 12:51:41 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 12:51:51 Gse dictionary loaded finished.
+2020/04/10 12:51:51 186
+2020/04/10 12:53:41 -------------------------This is a test log entry-------------------------------
+2020/04/10 12:53:41 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 12:53:52 Gse dictionary loaded finished.
+2020/04/10 12:53:52 25
+2020/04/10 13:06:49 -------------------------This is a test log entry-------------------------------
+2020/04/10 13:06:49 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 13:06:59 Gse dictionary loaded finished.
+2020/04/10 13:06:59 v
+2020/04/10 13:09:29 -------------------------This is a test log entry-------------------------------
+2020/04/10 13:09:29 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 13:09:39 Gse dictionary loaded finished.
+2020/04/10 13:09:39 33
+2020/04/10 13:09:39 x
+2020/04/10 13:09:39 n
+2020/04/10 13:09:39 v
+2020/04/10 13:09:39 x
+2020/04/10 13:09:39 v
+2020/04/10 13:09:58 -------------------------This is a test log entry-------------------------------
+2020/04/10 13:09:58 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 13:10:08 Gse dictionary loaded finished.
+2020/04/10 13:10:08 喺/x 時候/n 叫/v 佢/x 停/v 
+2020/04/10 13:10:08 x
+2020/04/10 13:10:08 n
+2020/04/10 13:10:08 v
+2020/04/10 13:10:08 x
+2020/04/10 13:10:08 v
+2020/04/10 13:11:55 -------------------------This is a test log entry-------------------------------
+2020/04/10 13:11:55 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 13:12:20 -------------------------This is a test log entry-------------------------------
+2020/04/10 13:12:20 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 13:12:29 Gse dictionary loaded finished.
+2020/04/10 13:12:29 喺/x 時候/n 瞓覺/vn 
+2020/04/10 13:12:29 x
+2020/04/10 13:12:29 n
+2020/04/10 13:12:29 vn
+2020/04/10 13:26:31 -------------------------This is a test log entry-------------------------------
+2020/04/10 13:26:31 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 13:26:41 Gse dictionary loaded finished.
+2020/04/10 13:26:41 喺/x 時候/n 瞓覺/vn 
+2020/04/10 13:26:41 x
+2020/04/10 13:26:41 n
+2020/04/10 13:26:41 vn
+2020/04/10 13:31:16 -------------------------This is a test log entry-------------------------------
+2020/04/10 13:31:16 Load the gse dictionary: "/home/runner/go/pkg/mod/github.com/go-ego/gse@v0.0.0-20200409144151-c4f7d6831d7c/data/dict/dictionary.txt" 
+2020/04/10 13:31:27 Gse dictionary loaded finished.
+2020/04/10 13:31:27 喺/x 時候/n 瞓覺/vn 
+2020/04/10 13:31:27 x
+2020/04/10 13:31:27 n
+2020/04/10 13:31:27 vn

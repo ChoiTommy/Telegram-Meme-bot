@@ -1,0 +1,12 @@
+github.com/go-ego/cedar v0.0.0-20200216133617-4c2101427ebf h1:awLX9T1d21rV0xaQSmtWCAa7WXdxXDz+gida0X8LSNc=
+github.com/go-ego/cedar v0.0.0-20200216133617-4c2101427ebf/go.mod h1:ATtMehzYSopsg1xy2sNQU7/GvvF+kEzJBPAz9/oOV7Y=
+github.com/go-ego/cedar v0.0.0-20200304155612-882377152063 h1:QsqFPuNNuBUijdBvuKwh9nPi2VSMWEpnE/eKw05GBbA=
+github.com/go-ego/cedar v0.0.0-20200304155612-882377152063/go.mod h1:ATtMehzYSopsg1xy2sNQU7/GvvF+kEzJBPAz9/oOV7Y=
+github.com/go-ego/gse v0.0.0-20200409144151-c4f7d6831d7c h1:n6cDNDOAuiK1AwIstKffuIdv/5lW2BM1eH9AUP6a1xY=
+github.com/go-ego/gse v0.0.0-20200409144151-c4f7d6831d7c/go.mod h1:uRpJAgVoqQJiDLHQ5ao/8+ugODnsVoOCXcVRmTvNwes=
+github.com/go-telegram-bot-api/telegram-bot-api v1.0.0 h1:HXVtsZ+yINQeyyhPFAUU4yKmeN+iFhJ87jXZOC016gs=
+github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible h1:2cauKuaELYAEARXRkq2LrJ0yDDv1rW7+wrTEdVL3uaU=
+github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible/go.mod h1:qf9acutJ8cwBUhm1bqgz6Bei9/C/c93FPDljKWwsOgM=
+github.com/technoweenie/multipartstreamer v1.0.1 h1:XRztA5MXiR1TIRHxH2uNxXxaIkKQDeX7m2XsSOlQEnM=
+github.com/technoweenie/multipartstreamer v1.0.1/go.mod h1:jNVxdtShOxzAsukZwTSw6MDx5eUJoiEBsSvzDU9uzog=
+github.com/vcaesar/tt v0.0.0-20200214111121-9561a943a243/go.mod h1:GHPxQYhn+7OgKakRusH7KJ0M5MhywoeLb8Fcffs/Gtg=
